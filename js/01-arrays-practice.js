@@ -135,10 +135,9 @@
 // console.log(randomNum(num));
 
 // //STEP 17
+// let largestNum = (arr) => {
+//     arr.sort();
+//     return arr[0];
+// }
 
-let largestNum = (arr) => {
-    arr.sort();
-    return arr[0];
-}
-
-console.log(largestNum([51, 25, 113, 2, 77, 33, 42]));
+// console.log(largestNum([51, 25, 113, 2, 77, 33, 42]));
